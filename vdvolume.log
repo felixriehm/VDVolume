@@ -1,0 +1,8 @@
+No cSize received. Taking default cSize: 64
+No grid size received. Taking default size x: 512 y: 176 z: 348
+Create time (sec): 2.334254
+Delete time (sec): 0.1217856
+Add/Undo time (sec): 0.1453328
+Modify time (sec): 0.01502752
+Remove cube parallel time (sec): 0.006989002
+Add cube parallel time (sec): 0.005646706

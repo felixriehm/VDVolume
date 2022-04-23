@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/51434899/c-16-bit-grayscale-gradient-image-from-2d-array

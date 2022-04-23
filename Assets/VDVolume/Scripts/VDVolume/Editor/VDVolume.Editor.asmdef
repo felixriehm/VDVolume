@@ -1,0 +1,17 @@
+{
+    "name": "VDVolume.Editor",
+    "references": [
+        "GUID:d75061fd2127b5a4ebabd5ded0a7bb61"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
